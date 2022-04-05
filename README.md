@@ -57,4 +57,5 @@ Free for personal and commercial purpose with attribution
 Copyright 2018-2020 Astrava.Solutions Ltd. Code released under the MIT license.
 
 ## Deploy
-firebase deploy
+- firebase login
+- firebase deploy
